@@ -1,4 +1,4 @@
-#!bin/bash 
+#!/bin/bash 
 #Author:Robert Foster 
 #Date:11/04/2020 
 #Color Text Output Schema.
